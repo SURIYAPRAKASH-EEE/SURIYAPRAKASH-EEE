@@ -277,13 +277,13 @@ Valve Manufacturing &nbsp;·&nbsp; CNC Machining &nbsp;·&nbsp; Quality Control 
 
 </div>
 
-<br />
+<!-- <br />
 
 > **Stats card, top-languages card, and trophy row** — intentionally left out for now. They call `github-readme-stats.vercel.app` and `github-profile-trophy.vercel.app`, the shared public demo instances of two open-source projects. Those instances are currently rate-limited/unstable for a large share of users (a widely-reported, ongoing issue — not specific to this profile), so they render as broken images more often than not. The fix is to deploy your own free copy on Vercel, which takes about two minutes and removes the shared rate limit entirely. Say the word and I'll walk you through it and re-add the cards pointed at your own instance.
 >
 > **Snake contribution animation** — also omitted. It only renders once a small GitHub Action is running in your **own** profile repository (a repo named exactly `suriyaprakashb/suriyaprakashb`) to generate that SVG on a schedule. Happy to hand you the ready-to-commit workflow file whenever you want it.
 
-<br />
+<br /> -->
 
 ---
 
