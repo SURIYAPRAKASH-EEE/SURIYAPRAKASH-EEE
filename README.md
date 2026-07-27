@@ -268,29 +268,20 @@ Valve Manufacturing &nbsp;·&nbsp; CNC Machining &nbsp;·&nbsp; Quality Control 
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=suriyaprakashb&show_icons=true&theme=tokyonight&hide_border=true" width="49%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=suriyaprakashb&layout=compact&theme=tokyonight&hide_border=true" width="30%" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=suriyaprakash-eee&theme=tokyonight&hide_border=true" width="60%" />
 
 <br />
 <br />
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=suriyaprakashb&theme=tokyonight&hide_border=true" width="60%" />
-
-<br />
-<br />
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=suriyaprakashb&theme=react-dark&hide_border=true" width="90%" />
-
-<br />
-<br />
-
-<img src="https://github-profile-trophy.vercel.app/?username=suriyaprakashb&theme=onedark&no-frame=true&row=1&column=6" width="90%" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=suriyaprakash-eee&theme=react-dark&hide_border=true" width="90%" />
 
 </div>
 
 <br />
 
-> **Snake contribution animation** — omitted here on purpose. It only renders once a small GitHub Action is running in your **own** profile repository (a repo named exactly `suriyaprakashb/suriyaprakashb`) to generate that SVG on a schedule. Say the word and I'll hand you the ready-to-commit workflow file — takes about two minutes to wire up.
+> **Stats card, top-languages card, and trophy row** — intentionally left out for now. They call `github-readme-stats.vercel.app` and `github-profile-trophy.vercel.app`, the shared public demo instances of two open-source projects. Those instances are currently rate-limited/unstable for a large share of users (a widely-reported, ongoing issue — not specific to this profile), so they render as broken images more often than not. The fix is to deploy your own free copy on Vercel, which takes about two minutes and removes the shared rate limit entirely. Say the word and I'll walk you through it and re-add the cards pointed at your own instance.
+>
+> **Snake contribution animation** — also omitted. It only renders once a small GitHub Action is running in your **own** profile repository (a repo named exactly `suriyaprakashb/suriyaprakashb`) to generate that SVG on a schedule. Happy to hand you the ready-to-commit workflow file whenever you want it.
 
 <br />
 
@@ -304,7 +295,7 @@ Valve Manufacturing &nbsp;·&nbsp; CNC Machining &nbsp;·&nbsp; Quality Control 
 
 <div align="center">
 
-[![GitHub](https://img.shields.io/badge/GitHub-0A0E14?style=flat-square&logo=github&logoColor=E6EDF3)](https://github.com/suriyaprakashb)
+[![GitHub](https://img.shields.io/badge/GitHub-0A0E14?style=flat-square&logo=github&logoColor=E6EDF3)](https://github.com/suriyaprakash-eee)
 &nbsp;
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A0E14?style=flat-square&logo=linkedin&logoColor=4C8DFF)](https://linkedin.com/in/suriyaprakashb)
 &nbsp;
